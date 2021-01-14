@@ -20,7 +20,6 @@
   "pre-commit": "lint:staged",
   "license": "MIT",
   "dependencies": {
-    "@uppy-example/aws-companion": "file:examples/aws-companion",
     "@uppy-example/aws-presigned-url": "file:examples/aws-presigned-url",
     "@uppy-example/bundled": "file:examples/bundled",
     "@uppy-example/cdn-example": "file:examples/cdn-example",
